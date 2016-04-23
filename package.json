@@ -19,6 +19,7 @@
   "homepage": "https://github.com/TrevorOctober/SpaceApp_Sea-Ice",
   "dependencies": {
     "express": "^4.13.4",
+    "geolib": "^2.0.20",
     "handlebars": "^4.0.5"
   }
 }
