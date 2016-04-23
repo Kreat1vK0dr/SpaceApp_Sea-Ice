@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TrevorOctober/SpaceApp_Sea-Ice/issues"
   },
-  "homepage": "https://github.com/TrevorOctober/SpaceApp_Sea-Ice"
+  "homepage": "https://github.com/TrevorOctober/SpaceApp_Sea-Ice",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
