@@ -3,7 +3,7 @@ var app = express();
 
 // create a route
 app.get('/', function (req, res) {
- res.send('Hello World!');
+ res.send('<h1>S</h1>pace <h1>A</h1>pps <h1>C</h1>hallenge');
 });
 
 //start the server
