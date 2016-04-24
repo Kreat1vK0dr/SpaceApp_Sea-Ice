@@ -1,9 +1,9 @@
 var express = require('express');
 var app = express();
-
+app.use(express.static('public'));
 // create a route
 app.get('/', function (req, res) {
- res.send('<h1>S</h1>pace <h1>A</h1>pps <h1>C</h1>hallenge');
+ res.render('index.html');
 });
 
 //start the server
