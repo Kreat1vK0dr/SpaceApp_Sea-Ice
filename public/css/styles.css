@@ -194,12 +194,13 @@ overflow: hidden;
   padding-top: 4em;
 }
 
-.text {
+.text3 {
         text-align: center;
         margin: 0 auto;
         border-radius: 8px;
-        padding-top: 2em;
-        height: 10%;
+        /*padding-top: 1em;*/
+        line-height: 3em;
+        /*height: 100%;*/
         width: 80%;
 }
 .metrics {
